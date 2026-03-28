@@ -38,7 +38,7 @@ This project simulates a real-world retail analytics problem where inventory ine
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](c:\Users\ASUS\Desktop\Github Projects Folder\Inventory Monitoring & Optimization using SQL & Power BI\PowerBI Dashboard\Screenshot.png)
+![Dashboard](https://github.com/RageKrish/Inventory_Monitoring_-_Optimization_using_SQL_-_Power-BI/blob/main/PowerBI%20Dashboard/Screenshot.png)
 
 ---
 
