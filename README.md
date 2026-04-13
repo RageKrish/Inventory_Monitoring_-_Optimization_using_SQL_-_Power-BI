@@ -4,7 +4,10 @@
 This project simulates a real-world retail analytics problem where inventory inefficiencies across multiple stores are analyzed and optimized using SQL.
 
 ---
+## 📊 Dashboard Preview
+![Dashboard](https://github.com/RageKrish/Inventory_Monitoring_-_Optimization_using_SQL_-_Power-BI/blob/main/PowerBI%20Dashboard/Screenshot.png)
 
+---
 ## 🎯 Objectives
 - Monitor stock levels across stores  
 - Detect low inventory and stockout risks  
@@ -34,11 +37,6 @@ This project simulates a real-world retail analytics problem where inventory ine
 - Inventory Turnover Analysis  
 - Demand Decline Detection  
 - Best-Selling Products by Region  
-
----
-
-## 📊 Dashboard Preview
-![Dashboard](https://github.com/RageKrish/Inventory_Monitoring_-_Optimization_using_SQL_-_Power-BI/blob/main/PowerBI%20Dashboard/Screenshot.png)
 
 ---
 
